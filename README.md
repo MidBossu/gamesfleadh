@@ -1,6 +1,6 @@
 # gamesfleadh entry 2017 Space Racer 2069
 
-Top-down racing game with multiplayer split-screen.
+Top-down racing game with multiplayer split-screen. Solo Project.
 
 Trailer: https://www.youtube.com/watch?v=zGvJ4rB-JI8
 
